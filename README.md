@@ -1,3 +1,4 @@
+![logo(https://github.com/bhushanjikar/bhushanjikar/blob/main/banner_img.png)
 <h1 align="center">Hi 👋, I'm Bhushan Jikar</h1>
 <h3 align="center">A passionate java developer</h3>
 
